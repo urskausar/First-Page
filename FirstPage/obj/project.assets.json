@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source Code\\FirstPage\\FirstPage\\FirstPage.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\First-Page\\FirstPage\\FirstPage.csproj",
       "projectName": "FirstPage",
-      "projectPath": "C:\\Source Code\\FirstPage\\FirstPage\\FirstPage.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\First-Page\\FirstPage\\FirstPage.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Source Code\\FirstPage\\FirstPage\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\First-Page\\FirstPage\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
