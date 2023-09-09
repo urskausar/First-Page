@@ -28,3 +28,33 @@ C:\Source Code\FirstPage\FirstPage\obj\Debug\net7.0\refint\FirstPage.dll
 C:\Source Code\FirstPage\FirstPage\obj\Debug\net7.0\FirstPage.pdb
 C:\Source Code\FirstPage\FirstPage\obj\Debug\net7.0\FirstPage.genruntimeconfig.cache
 C:\Source Code\FirstPage\FirstPage\obj\Debug\net7.0\ref\FirstPage.dll
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\bin\Debug\net7.0\appsettings.json
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\bin\Debug\net7.0\FirstPage.staticwebassets.runtime.json
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\bin\Debug\net7.0\FirstPage.exe
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\bin\Debug\net7.0\FirstPage.deps.json
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\bin\Debug\net7.0\FirstPage.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\bin\Debug\net7.0\FirstPage.dll
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\bin\Debug\net7.0\FirstPage.pdb
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\FirstPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\FirstPage.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\FirstPage.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\FirstPage.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\FirstPage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\FirstPage.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\FirstPage.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\staticwebassets\msbuild.FirstPage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\staticwebassets\msbuild.build.FirstPage.props
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FirstPage.props
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FirstPage.props
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\scopedcss\bundle\FirstPage.styles.css
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\scopedcss\projectbundle\FirstPage.bundle.scp.css
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\FirstPage.dll
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\refint\FirstPage.dll
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\FirstPage.pdb
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\FirstPage.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\First-Page\FirstPage\obj\Debug\net7.0\ref\FirstPage.dll
